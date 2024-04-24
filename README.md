@@ -29,7 +29,7 @@ Connect your ESP8266 board, select the appropriate board and upload the code.
 Web Interface:
 
 Once uploaded, The ESP8266 will generate an Acess Point which you can connect to via  password.
-Open a web browser and navigate to the IP address assigned(Usually 192.168.4.1 or check manually) via Serial monitor.
+Open a web browser and navigate to the IP address assigned 192.168.4.1 Or check manually.
 The web interface will display a button to control the relay state (on/off).
 Additional Information:
 This project is licensed under the MIT License (see LICENSE file for details).
